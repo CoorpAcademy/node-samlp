@@ -17,22 +17,22 @@
   "author": "Auth0",
   "license": "mit",
   "dependencies": {
-    "saml": "~0.8.2",
-    "ejs": "~0.8.3",
+    "saml": "~0.10.0",
+    "ejs": "~2.5.2",
     "thumbprint": "0.0.1",
     "xmldom": "~0.1.15",
-    "xpath": "0.0.5",
-    "xml-crypto": "0.0.13"
+    "xpath": "0.0.23",
+    "xml-crypto": "0.8.4"
   },
   "devDependencies": {
-    "chai": "~1.5.0",
-    "express": "~3.1.0",
-    "mocha": "~1.8.1",
-    "request": "~2.14.0",
+    "chai": "~3.5.0",
+    "express": "~4.14.0",
+    "mocha": "~3.1.2",
+    "request": "~2.78.0",
     "xmldom": "~0.1.13",
-    "cheerio": "~0.10.7",
-    "xml-crypto": "0.0.10",
-    "xpath": "0.0.5",
-    "xtend": "~2.0.3"
+    "cheerio": "~0.22.0",
+    "xml-crypto": "0.8.4",
+    "xpath": "0.0.23",
+    "xtend": "~4.0.1"
   }
 }
